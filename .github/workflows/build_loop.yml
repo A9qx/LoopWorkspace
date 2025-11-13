@@ -221,7 +221,11 @@ jobs:
           dexcom_upload_readings \
           high_carb_limit \
           watch_title \
+          basal_lock \
           meal_days \
+          live_activity \
+          future_carbs_4h \
+          profiles \
           negative_insulin
 
           # the final customization listed above CANNOT have a continuation character
